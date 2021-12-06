@@ -5,3 +5,5 @@ Two takeaways from my time at Turing:
 Two new strategies I will try in Mod 0:
   1) Table of contents for my notebook.
   2) Reviewing/making flashcards immediately after each lesson.
+
+Shoutout to Lindsey Lucero for supporting me and suggesting I enroll in this program!
