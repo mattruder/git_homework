@@ -7,3 +7,5 @@ Two new strategies I will try in Mod 0:
   2) Reviewing/making flashcards immediately after each lesson.
 
 Shoutout to Lindsey Lucero for supporting me and suggesting I enroll in this program!
+
+Here is an addition to the file.
