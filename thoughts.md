@@ -9,3 +9,5 @@ Two new strategies I will try in Mod 0:
 Shoutout to Lindsey Lucero for supporting me and suggesting I enroll in this program!
 
 Here is an addition to the file.
+
+Here is another addition to this file!
